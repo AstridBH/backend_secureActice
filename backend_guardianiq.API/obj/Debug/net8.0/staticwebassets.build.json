@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O8U8wLxeCG3Sy+FEeM16N+D4OIZja7zg8mMvXPcrZWI=",
+  "Source": "backend_guardianiq.API",
+  "BasePath": "_content/backend_guardianiq.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
